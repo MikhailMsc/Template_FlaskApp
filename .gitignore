@@ -2,3 +2,6 @@
 /flask_app2
 /__pycache__
 /First_App/__pycache__
+/instructions.txt
+/app.db
+/migrations
